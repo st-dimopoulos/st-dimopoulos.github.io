@@ -5,12 +5,76 @@
     <link>https://st-dimopoulos.github.io/tags/</link>
       <atom:link href="https://st-dimopoulos.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://st-dimopoulos.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://st-dimopoulos.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Continuum function</title>
+      <link>https://st-dimopoulos.github.io/tags/continuum-function/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/tags/continuum-function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easton functions</title>
+      <link>https://st-dimopoulos.github.io/tags/easton-functions/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/tags/easton-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large cardinals</title>
+      <link>https://st-dimopoulos.github.io/tags/large-cardinals/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/tags/large-cardinals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strongly compact cardinals</title>
+      <link>https://st-dimopoulos.github.io/tags/strongly-compact-cardinals/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/tags/strongly-compact-cardinals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supercompact cardinals</title>
+      <link>https://st-dimopoulos.github.io/tags/supercompact-cardinals/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/tags/supercompact-cardinals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast function</title>
+      <link>https://st-dimopoulos.github.io/tags/fast-function/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/tags/fast-function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Menas property</title>
+      <link>https://st-dimopoulos.github.io/tags/menas-property/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/tags/menas-property/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sacks forcing</title>
+      <link>https://st-dimopoulos.github.io/tags/sacks-forcing/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/tags/sacks-forcing/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

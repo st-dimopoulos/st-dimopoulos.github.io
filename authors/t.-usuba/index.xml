@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Usuba | Academic</title>
+    <link>https://st-dimopoulos.github.io/authors/t.-usuba/</link>
+      <atom:link href="https://st-dimopoulos.github.io/authors/t.-usuba/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Usuba</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://st-dimopoulos.github.io/img/icon-192.png</url>
+      <title>T. Usuba</title>
+      <link>https://st-dimopoulos.github.io/authors/t.-usuba/</link>
+    </image>
+    
+    <item>
+      <title>Strongly compact cardinals and the continuum function</title>
+      <link>https://st-dimopoulos.github.io/publication/2019-02-27-sc-continuum-function/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/publication/2019-02-27-sc-continuum-function/</guid>
+      <description>&lt;p&gt;This is a joint paper with Arthur W. Apter and Toshimichi Usuba, which looks at the problem of changing the continuum function while preserving strongly compact cardinals. Among other results, it contains a new breakthrough by Usuba regarding the violation of GCH at a strongly compact cardinal from optimal assumptions.&lt;/p&gt;
+
+&lt;p&gt;Easton&#39;s theorem (see Theorem 15.18 in &lt;a href=&#34;https://www.springer.com/gp/book/9783540440857&#34;&gt;Jech&#39;s book&lt;/a&gt;) was a milestone in set theory, which showed that ZFC by itself does not impose severe limitations on the behaviour of the continuum function at regular cardinals. However, when we bring large cardinals into the picture, the situation is more complicated. Often the mere violation of GCH at a large cardinal requires strong assumptions. The prototypical example is the case of a measurable cardinal. By results of Gitik &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0168007289900699&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://core.ac.uk/download/pdf/82536312.pdf&#34;&gt;here&lt;/a&gt; (see also Mitchell&#39;s &lt;a href=&#34;https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/the-core-model-for-sequences-of-measures-i/3E6F0DB1000D093E43CDA775FC2CACC8&#34;&gt;article&lt;/a&gt;), the violation of GCH at a measurable cardinal is equiconsistent with the existence of a measurable cardinal &lt;span  class=&#34;math&#34;&gt;\(\kappa\)&lt;/span&gt; such that &lt;span  class=&#34;math&#34;&gt;\(o(\kappa) = \kappa^{+ +}\)&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this paper, we look at the possible behaviour of the continuum function in the presence of strongly compact cardinals that are not supercompact. Our goal will be to work with strongly compact cardinals which possess no non-trivial degrees of supercompactness. There are fundamental open questions in this regard, such as whether it is possible to force GCH at an arbitrary non-supercompact strongly compact cardinal.&lt;/p&gt;
+
+&lt;p&gt;As motivation, let us mention that if we allow enough supercompactness assumptions, the continuum function at a non-supercompact strongly compact cardinal can be manipulated fairly easily. For instance, to realise a &lt;span  class=&#34;math&#34;&gt;\(\Delta_2\)&lt;/span&gt;-definable Easton function &lt;span  class=&#34;math&#34;&gt;\(F\)&lt;/span&gt;, we can use a result due to &lt;a href=&#34;https://www.jstor.org/stable/1997517&#34;&gt;Menas&lt;/a&gt;, which shows that it is possible to realise &lt;span  class=&#34;math&#34;&gt;\(F\)&lt;/span&gt; while preserving the supercompactness of a cardinal &lt;span  class=&#34;math&#34;&gt;\(\kappa\)&lt;/span&gt;. We can then use &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0003484376900243&#34;&gt;Magidor&#39;s Prikry iteration&lt;/a&gt; that destroys all measurable cardinals below &lt;span  class=&#34;math&#34;&gt;\(\kappa\)&lt;/span&gt;. In the resulting model, &lt;span  class=&#34;math&#34;&gt;\(\kappa\)&lt;/span&gt; is strongly compact, &lt;span  class=&#34;math&#34;&gt;\(\kappa\)&lt;/span&gt; is the least measurable cardinal (and so is not &lt;span  class=&#34;math&#34;&gt;\(2^\kappa\)&lt;/span&gt;-supercompact), and &lt;span  class=&#34;math&#34;&gt;\(F\)&lt;/span&gt; is still realised.&lt;/p&gt;
+
+&lt;p&gt;In a similar vein, suppose that &lt;span  class=&#34;math&#34;&gt;\(F\)&lt;/span&gt; is an Easton function definable by a &lt;span  class=&#34;math&#34;&gt;\(\Delta_2\)&lt;/span&gt; formula in a model &lt;span  class=&#34;math&#34;&gt;\(V\)&lt;/span&gt; of ZFC + GCH in which &lt;span  class=&#34;math&#34;&gt;\(\lambda\)&lt;/span&gt; is a supercompact limit of supercompact cardinals. The aforementioned theorem of Menas shows that it is possible to force over &lt;span  class=&#34;math&#34;&gt;\(V\)&lt;/span&gt; to obtain a model &lt;span  class=&#34;math&#34;&gt;\(V_1\)&lt;/span&gt; in which &lt;span  class=&#34;math&#34;&gt;\(\lambda\)&lt;/span&gt; remains a supercompact limit of supercompact cardinals and the Easton function &lt;span  class=&#34;math&#34;&gt;\(F\)&lt;/span&gt; has been realised.&lt;/p&gt;
+
+&lt;p&gt;In &lt;span  class=&#34;math&#34;&gt;\(V_1\)&lt;/span&gt;, let &lt;span  class=&#34;math&#34;&gt;\(\kappa \lt \lambda\)&lt;/span&gt; be the least measurable limit of supercompact cardinals. Another theorem of Menas shows that in &lt;span  class=&#34;math&#34;&gt;\(V_1\)&lt;/span&gt;, &lt;span  class=&#34;math&#34;&gt;\(\kappa\)&lt;/span&gt; is both strongly compact and not &lt;span  class=&#34;math&#34;&gt;\(2^\kappa\)&lt;/span&gt;-supercompact. In particular, by starting with hypotheses stronger than the existence of a measurable limit of supercompact cardinals, it is possible to force and construct a model containing a non-supercompact strongly compact cardinal in which &lt;span  class=&#34;math&#34;&gt;\(F\)&lt;/span&gt; has been realised.&lt;/p&gt;
+
+&lt;p&gt;Also, if we assume that the strongly compact cardinal has a sufficient degree of supercompactness, there are positive results. In &lt;a href=&#34;https://arxiv.org/abs/math/9808012&#34;&gt;this article&lt;/a&gt;, Hamkins shows that if &lt;span  class=&#34;math&#34;&gt;\(\kappa\)&lt;/span&gt; is both strongly compact and &lt;span  class=&#34;math&#34;&gt;\(\lambda\)&lt;/span&gt;-supercompact, then &lt;span  class=&#34;math&#34;&gt;\(\kappa\)&lt;/span&gt; can be forced to have its strong compactness and &lt;span  class=&#34;math&#34;&gt;\(\lambda\)&lt;/span&gt;-supercompactness indestructible under any &lt;span  class=&#34;math&#34;&gt;\(\kappa\)&lt;/span&gt;-directed closed forcing that has size at most &lt;span  class=&#34;math&#34;&gt;\(\lambda\)&lt;/span&gt;.  In particular, it is possible to realise suitable Easton functions in the interval &lt;span  class=&#34;math&#34;&gt;\([\kappa,\lambda)\)&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our results are separated into two categories, depending on whether we are interested in preserving a single strongly compact cardinal or more than one strongly compact cardinal. For the former, we first answer a long-standing open question on the problem of whether it is possible to violate GCH at a strongly compact cardinal using no stronger assumptions. We show that just assuming &lt;span  class=&#34;math&#34;&gt;\(2^\kappa =\kappa^+\)&lt;/span&gt; and &lt;span  class=&#34;math&#34;&gt;\(\kappa\)&lt;/span&gt; is strongly compact, it is possible to preserve the strong compactness of &lt;span  class=&#34;math&#34;&gt;\(\kappa\)&lt;/span&gt; while forcing any desired value for &lt;span  class=&#34;math&#34;&gt;\(2^\kappa\)&lt;/span&gt;. This result is due to the T. Usuba. We then address the question of what sort of Easton functions can be realised in the presence of a certain non-supercompact strongly compact cardinal. We show that if &lt;span  class=&#34;math&#34;&gt;\(\kappa\)&lt;/span&gt; is the least measurable limit of supercompact cardinals and &lt;span  class=&#34;math&#34;&gt;\(F\)&lt;/span&gt; is an arbitrary Easton function defined on regular cardinals greater than or equal to &lt;span  class=&#34;math&#34;&gt;\(\kappa\)&lt;/span&gt;, then it is possible to force to realise &lt;span  class=&#34;math&#34;&gt;\(F\)&lt;/span&gt; while preserving the fact that &lt;span  class=&#34;math&#34;&gt;\(\kappa\)&lt;/span&gt; is the least measurable limit of supercompact cardinals. The techniques used, however, will of necessity destroy many supercompact cardinals. We therefore also present another result along the same lines, where the Easton function realised has restrictions placed on it, but all supercompact cardinals are preserved.&lt;/p&gt;
+
+&lt;p&gt;For the latter, we begin by showing how to iterate the partial orderings used in Section 3 so as to preserve all measurable limits of supercompact cardinals simultaneously, while realising certain Easton functions at all of them. We then prove a theorem which gives a partial answer to the problem of the simultaneous preservation of all supercompact and measurable limits of supercompact cardinals while violating GCH at each of them. Finally, Section 5 contains some open questions.&lt;/p&gt;
+
+&lt;p&gt;In order to present our results in full generality, we make the minimal number of assumptions on the structure of the class of strongly compact and supercompact
+cardinals in our ground model. However, if we force over a model in which GCH and the property of &lt;em&gt;compactness coincidence&lt;/em&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a class=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; both hold (such as the one constructed by the first author and Shelah &lt;a href=&#34;https://arxiv.org/abs/math/9502232&#34;&gt;here&lt;/a&gt;), then all strongly compact cardinals will be preserved to our generic extension. This is since the only strongly compact cardinals which exist in a model satisfying compactness coincidence are the supercompact cardinals and the measurable limits of supercompact cardinals.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;The property of &lt;em&gt;compactness coincidence&lt;/em&gt; states that the strongly compact and supercompact cardinals coincide, except at measurable limit points.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
