@@ -203,6 +203,42 @@ Easton&#39;s theorem (see Theorem 15.18 in Jech&#39;s book) was a milestone in s
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126415251-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-126415251-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -293,6 +329,16 @@ Easton&#39;s theorem (see Theorem 15.18 in Jech&#39;s book) was a milestone in s
   <link rel="manifest" href="/index.webmanifest">
 <link rel="icon" type="image/png" href="/">
 <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126415251-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-126415251-1');
+</script>
 
 
   <title>Strongly compact cardinals and the continuum function | Stamatis Dimopoulos</title>
