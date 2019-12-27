@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching | Academic</title>
+    <title>Teaching | Stamatis Dimopoulos</title>
     <link>https://st-dimopoulos.github.io/teaching/</link>
       <atom:link href="https://st-dimopoulos.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Stamatis Dimopoulos</copyright><lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://st-dimopoulos.github.io/img/icon-192.png</url>
       <title>Teaching</title>

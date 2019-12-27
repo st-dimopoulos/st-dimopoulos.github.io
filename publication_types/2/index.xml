@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Academic</title>
+    <title>2 | Stamatis Dimopoulos</title>
     <link>https://st-dimopoulos.github.io/publication_types/2/</link>
       <atom:link href="https://st-dimopoulos.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Stamatis Dimopoulos</copyright><lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://st-dimopoulos.github.io/img/icon-192.png</url>
       <title>2</title>
@@ -17,17 +17,13 @@
       <link>https://st-dimopoulos.github.io/publication/2018-08-02-wfsc/</link>
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://st-dimopoulos.github.io/publication/2018-08-02-wfsc/</guid>
-      <description>&lt;p&gt;In a seminal &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0003484376900243&#34;&gt;paper&lt;/a&gt; Magidor established the &amp;quot;identity crisis&amp;quot; of the first strongly compact cardinal, which can consistently be the first measurable or the first supercompact cardinal. This is by now a classic result in set theory and actually created a new field studying the &amp;quot;identity crises&amp;quot; that accompany concepts related to strong compactness (see &lt;a href=&#34;https://www.jstor.org/stable/2695085&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;https://link.springer.com/article/10.1007/s001530050172&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs00153-005-0316-9&#34;&gt;here&lt;/a&gt; for a very small sample of results in this area.) We further contribute to this area by establishing another identity crisis, to a concept created by combining Woodin and strongly compact cardinals.&lt;/p&gt;
-
-&lt;p&gt;Woodin and Vopěnka cardinals, although originally defined in different context and for different reasons, are quite similar. A cardinal &lt;span  class=&#34;math&#34;&gt;\(\delta\)&lt;/span&gt; is Woodin if one of the following two equivalent definitions hold:&lt;/p&gt;
-
+      <description>&lt;p&gt;In a seminal &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0003484376900243&#34;&gt;paper&lt;/a&gt; Magidor established the &amp;ldquo;identity crisis&amp;rdquo; of the first strongly compact cardinal, which can consistently be the first measurable or the first supercompact cardinal. This is by now a classic result in set theory and actually created a new field studying the &amp;ldquo;identity crises&amp;rdquo; that accompany concepts related to strong compactness (see &lt;a href=&#34;https://www.jstor.org/stable/2695085&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;https://link.springer.com/article/10.1007/s001530050172&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs00153-005-0316-9&#34;&gt;here&lt;/a&gt; for a very small sample of results in this area.) We further contribute to this area by establishing another identity crisis, to a concept created by combining Woodin and strongly compact cardinals.&lt;/p&gt;
+&lt;p&gt;Woodin and Vopěnka cardinals, although originally defined in different context and for different reasons, are quite similar. A cardinal $\delta$ is Woodin if one of the following two equivalent definitions hold:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;for every function &lt;span  class=&#34;math&#34;&gt;\(f:\delta\to \delta\)&lt;/span&gt; there is &lt;span  class=&#34;math&#34;&gt;\(\kappa\lt\delta\)&lt;/span&gt; which is a closure point of &lt;span  class=&#34;math&#34;&gt;\(f\)&lt;/span&gt; and there is an elementary embedding &lt;span  class=&#34;math&#34;&gt;\(j:V\to M\)&lt;/span&gt; with critical point &lt;span  class=&#34;math&#34;&gt;\(\kappa\)&lt;/span&gt; and &lt;span  class=&#34;math&#34;&gt;\(V_{j(f)(\kappa)}\subseteq M\)&lt;/span&gt;,&lt;/li&gt;
-&lt;li&gt;for every &lt;span  class=&#34;math&#34;&gt;\(A\subseteq V_\delta\)&lt;/span&gt; there is a cardinal &lt;span  class=&#34;math&#34;&gt;\(\kappa\lt\delta\)&lt;/span&gt; which is &lt;span  class=&#34;math&#34;&gt;\({\lt}\delta\)&lt;/span&gt;-strong for &lt;span  class=&#34;math&#34;&gt;\(A\)&lt;/span&gt;.&lt;/li&gt;
+&lt;li&gt;for every function $f:\delta\to \delta$ there is $\kappa\lt\delta$ which is a closure point of $f$ and there is an elementary embedding $j:V\to M$ with critical point $\kappa$ and $V_{j(f)(\kappa)}\subseteq M$,&lt;/li&gt;
+&lt;li&gt;for every $A\subseteq V_\delta$ there is a cardinal $\kappa\lt\delta$ which is ${\lt}\delta$-strong for $A$.&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;p&gt;It was already known (see 24.19 in &lt;a href=&#34;https://www.springer.com/gp/book/9783540888666&#34;&gt;this book&lt;/a&gt;) that replacing strongness by supercompactness in (2) we obtain a notion equivalent to Vopěnka cardinals. Moreover, Perlmutter &lt;a href=&#34;https://arxiv.org/abs/1307.7387&#34;&gt;showed&lt;/a&gt; that the same happens with (1) when we replace the clause &lt;span  class=&#34;math&#34;&gt;\(V_{j(f)(\kappa)}\subseteq M\)&lt;/span&gt; by &lt;span  class=&#34;math&#34;&gt;\({}^{j(f)(\kappa)}M\subseteq M\)&lt;/span&gt;. This makes Vopěnka cardinals a Woodinised version for supercompact cardinals.&lt;/p&gt;
-
+&lt;p&gt;It was already known (see 24.19 in &lt;a href=&#34;https://www.springer.com/gp/book/9783540888666&#34;&gt;this book&lt;/a&gt;) that replacing strongness by supercompactness in (2) we obtain a notion equivalent to Vopěnka cardinals. Moreover, Perlmutter &lt;a href=&#34;https://arxiv.org/abs/1307.7387&#34;&gt;showed&lt;/a&gt; that the same happens with (1) when we replace the clause $V_{j(f)(\kappa)}\subseteq M$ by ${}^{j(f)(\kappa)}M\subseteq M$. This makes Vopěnka cardinals a Woodinised version for supercompact cardinals.&lt;/p&gt;
 &lt;p&gt;It is natural to consider what happens in (2) if we instead replace the strongness clause with a strong compactness clause, since strong compactness is an intermediate notion between strongness and supercompactness. In this article we look at this new type of cardinals, which we call &lt;em&gt;Woodin for strong compactness&lt;/em&gt;, and we explore their properties. For instance, we show that Woodin for strong compactness cardinals also have an equivalent definition which resembles (1), thus making them a reasonable Woodin analogue for strong compactness. The main result we establish is the identity crisis of the first Woodin for strong compactness cardinal. We show that it can consistently be the first Woodin or the first Woodin limit of supercompact cardinals.&lt;/p&gt;
 </description>
     </item>
