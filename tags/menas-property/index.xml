@@ -14,9 +14,9 @@
     
     <item>
       <title>Strong compactness and functions with the Menas property</title>
-      <link>https://st-dimopoulos.github.io/post/2018-10-13-strong-compactness-menas-property/</link>
+      <link>https://st-dimopoulos.github.io/2018/10/strong-compactness-menas-property/</link>
       <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://st-dimopoulos.github.io/post/2018-10-13-strong-compactness-menas-property/</guid>
+      <guid>https://st-dimopoulos.github.io/2018/10/strong-compactness-menas-property/</guid>
       <description>&lt;p&gt;In this blog post I will travel back to the 70s and discuss about a result that appeared &lt;a href=&#34;https://core.ac.uk/download/pdf/82143213.pdf&#34;&gt;here&lt;/a&gt;. Briefly, the result says that we can always find fast functions for strongly compact cardinals which are limits of strongly compact cardinals, without the need to force one.&lt;/p&gt;
 &lt;p&gt;Before explaining what all this means, let me describe my motivation since this is a somewhat specialised post. First of all, the aforementioned paper is one of the most important ones in set theory, since among other results, it establishes the non-equivalence between strong compactness and supercompactness. One of the results in the article was recently brought to my attention by Arthur Apter and I was surprised that I could not find it in the modern literature. I believe it is quite beneficial to look at old results and recast them using modern tools, since it can make them more easily accessible to other researchers, without needing to trace the whole history. I am definitely not the first person who did this for Menas&amp;rsquo; paper, since Joel Hamkins &lt;a href=&#34;https://arxiv.org/abs/math/9808012&#34;&gt;adapted Menas&amp;rsquo; techniques&lt;/a&gt; to argue about the preservation of strong compactness in forcing extensions. In fact, part of this post is inspired by Hamkins&amp;rsquo; approach.&lt;/p&gt;
 &lt;p&gt;To delve into the details now, recall that

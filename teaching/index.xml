@@ -5,7 +5,7 @@
     <link>https://st-dimopoulos.github.io/teaching/</link>
       <atom:link href="https://st-dimopoulos.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Stamatis Dimopoulos</copyright><lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Stamatis Dimopoulos</copyright><lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://st-dimopoulos.github.io/img/icon-192.png</url>
       <title>Teaching</title>
@@ -14,19 +14,57 @@
     
     <item>
       <title>Mathematics for Engineers II</title>
-      <link>https://st-dimopoulos.github.io/teaching/ucy-mas026-autumn2019/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://st-dimopoulos.github.io/teaching/ucy-mas026-autumn2019/</guid>
+      <link>https://st-dimopoulos.github.io/mas026-spring2020/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas026-spring2020/</guid>
       <description>&lt;p&gt;Mathematics for Engineers II is a course offered to the students of the three Engineering Departments of the University of Cyprus. Its content is that of a multivariable calculus course, namely vectors in n-dimensional spaces, limits and continuity of multivariable functions, differentiability and extrema, multiple integrals, line and surface intergrals, fundamental theorems of vector calculus (Green, Stokes, Gauss).&lt;/p&gt;
-&lt;p&gt;The content for the course can be found (in greek) &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/ucy-mas026-autumn2019-gr/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The content for the course can be found (in greek) &lt;a href=&#34;https://st-dimopoulos.github.io/mas026/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mathematics II</title>
+      <link>https://st-dimopoulos.github.io/mas002-spring2020/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas002-spring2020/</guid>
+      <description>&lt;p&gt;This is a course offered to students of three departments (Accounting and Finance, Business and Public Administration, Biology). Its content includes elements of Calculus (applications of integration, hyperbolic functions, sequences, series, differential equations) and Linear Algebra (linear equations, matrices, determinants, eigenvalues and eigenvectors).&lt;/p&gt;
+&lt;p&gt;The content for the course can be found (in greek) &lt;a href=&#34;https://st-dimopoulos.github.io/mas002/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mαθηματικά για Μηχανικούς ΙΙ</title>
-      <link>https://st-dimopoulos.github.io/teaching/ucy-mas026-autumn2019-gr/</link>
+      <link>https://st-dimopoulos.github.io/mas026/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas026/</guid>
+      <description>&lt;p&gt;Σχέδιο μαθήματος&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://st-dimopoulos.github.io/mas026-autumn2019-gr/&#34;&gt;Σημειώσεις προηγούμενου εξαμήνου&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Μαθηματικά ΙΙ</title>
+      <link>https://st-dimopoulos.github.io/mas002/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematics for Engineers II</title>
+      <link>https://st-dimopoulos.github.io/mas026-autumn2019/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://st-dimopoulos.github.io/teaching/ucy-mas026-autumn2019-gr/</guid>
+      <guid>https://st-dimopoulos.github.io/mas026-autumn2019/</guid>
+      <description>&lt;p&gt;Mathematics for Engineers II is a course offered to the students of the three Engineering Departments of the University of Cyprus. Its content is that of a multivariable calculus course, namely vectors in n-dimensional spaces, limits and continuity of multivariable functions, differentiability and extrema, multiple integrals, line and surface intergrals, fundamental theorems of vector calculus (Green, Stokes, Gauss).&lt;/p&gt;
+&lt;p&gt;The content for the course can be found (in greek) &lt;a href=&#34;https://st-dimopoulos.github.io/mas026-autumn2019-gr/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mαθηματικά για Μηχανικούς ΙΙ</title>
+      <link>https://st-dimopoulos.github.io/mas026-autumn2019-gr/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas026-autumn2019-gr/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas_026_autumn_2019_syllabus.pdf&#34;&gt;Σχέδιο μαθήματος&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas_026_autumn_2019_content.pdf&#34;&gt;Αναλυτικό περιεχόμενο&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Ενδιάμεση εξέταση: Σάββατο 2 Νοεμβρίου, 11.00-13.00, ΧΩΔ01 108.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -51,19 +89,19 @@
     
     <item>
       <title>Statistical Analysis I</title>
-      <link>https://st-dimopoulos.github.io/teaching/ucy-mas061-autumn2019/</link>
+      <link>https://st-dimopoulos.github.io/mas061-autumn2019/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://st-dimopoulos.github.io/teaching/ucy-mas061-autumn2019/</guid>
+      <guid>https://st-dimopoulos.github.io/mas061-autumn2019/</guid>
       <description>&lt;p&gt;This is a course offered to students of three departments (Accounting and Finance, Business and Public Administration, Economics). Its content includes basic combinatorics, theory of probability, discrete and continuous distributions, descriptive statistics, point estimation, confindence intervals and hypothesis testing.&lt;/p&gt;
-&lt;p&gt;The content for the course can be found (in greek) &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/ucy-mas061-autumn2019-gr/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The content for the course can be found (in greek) &lt;a href=&#34;https://st-dimopoulos.github.io/mas061-autumn2019-gr/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Στατιστική Ανάλυση Ι</title>
-      <link>https://st-dimopoulos.github.io/teaching/ucy-mas061-autumn2019-gr/</link>
+      <link>https://st-dimopoulos.github.io/mas061-autumn2019-gr/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://st-dimopoulos.github.io/teaching/ucy-mas061-autumn2019-gr/</guid>
+      <guid>https://st-dimopoulos.github.io/mas061-autumn2019-gr/</guid>
       <description>&lt;p&gt;Σχέδιο μαθήματος: &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas_061.2_autumn_2019_syllabus.pdf&#34;&gt;2ο τμήμα&lt;/a&gt; και &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas_061.3_autumn_2019_syllabus.pdf&#34;&gt;3ο τμήμα&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Eνδιάμεση εξέταση: Κυριακή 10 Νοεμβρίου, 14.00-16.00, ΧΩΔ02 Β204, Β205, Β210.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ασκήσεις φροντιστηρίων&lt;/strong&gt;&lt;/p&gt;
@@ -107,9 +145,9 @@
     
     <item>
       <title>Academic Tutorials</title>
-      <link>https://st-dimopoulos.github.io/teaching/bristol-year1-tutorials/</link>
+      <link>https://st-dimopoulos.github.io/academic-tutorials/</link>
       <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://st-dimopoulos.github.io/teaching/bristol-year1-tutorials/</guid>
+      <guid>https://st-dimopoulos.github.io/academic-tutorials/</guid>
       <description>&lt;p&gt;title: &amp;ldquo;Academic Tutor&amp;rdquo;
 collection: teaching
 classes: wide

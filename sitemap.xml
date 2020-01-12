@@ -3,8 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://st-dimopoulos.github.io/mas026-spring2020/</loc>
+    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://st-dimopoulos.github.io/mas002-spring2020/</loc>
+    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://st-dimopoulos.github.io/mas026/</loc>
+    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://st-dimopoulos.github.io/</loc>
-    <lastmod>2019-12-26T15:31:35+02:00</lastmod>
+    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://st-dimopoulos.github.io/teaching/</loc>
+    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://st-dimopoulos.github.io/mas002/</loc>
+    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,27 +43,22 @@
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/teaching/ucy-mas026-autumn2019/</loc>
+    <loc>https://st-dimopoulos.github.io/mas026-autumn2019/</loc>
     <lastmod>2019-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/teaching/ucy-mas026-autumn2019-gr/</loc>
+    <loc>https://st-dimopoulos.github.io/mas026-autumn2019-gr/</loc>
     <lastmod>2019-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/teaching/ucy-mas061-autumn2019/</loc>
+    <loc>https://st-dimopoulos.github.io/mas061-autumn2019/</loc>
     <lastmod>2019-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/teaching/</loc>
-    <lastmod>2019-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://st-dimopoulos.github.io/teaching/ucy-mas061-autumn2019-gr/</loc>
+    <loc>https://st-dimopoulos.github.io/mas061-autumn2019-gr/</loc>
     <lastmod>2019-09-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,7 +148,7 @@
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/post/2019-02-27-large-cardinals-continuum/</loc>
+    <loc>https://st-dimopoulos.github.io/2019/02/large-cardinals-continuum-function/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,7 +163,7 @@
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/post/2018-10-13-strong-compactness-menas-property/</loc>
+    <loc>https://st-dimopoulos.github.io/2018/10/strong-compactness-menas-property/</loc>
     <lastmod>2018-10-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/post/2018-09-19-sacks-supercompact/</loc>
+    <loc>https://st-dimopoulos.github.io/2018/09/sacks-supercompact/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,7 +203,7 @@
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/teaching/bristol-year1-tutorials/</loc>
+    <loc>https://st-dimopoulos.github.io/academic-tutorials/</loc>
     <lastmod>2014-01-09T00:00:00+00:00</lastmod>
   </url>
   

@@ -5,12 +5,50 @@
     <link>https://st-dimopoulos.github.io/</link>
       <atom:link href="https://st-dimopoulos.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Stamatis Dimopoulos</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Stamatis Dimopoulos</copyright><lastBuildDate>Thu, 26 Dec 2019 15:31:35 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Stamatis Dimopoulos</copyright><lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://st-dimopoulos.github.io/img/icon-192.png</url>
       <title>Stamatis Dimopoulos</title>
       <link>https://st-dimopoulos.github.io/</link>
     </image>
+    
+    <item>
+      <title>Mathematics for Engineers II</title>
+      <link>https://st-dimopoulos.github.io/mas026-spring2020/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas026-spring2020/</guid>
+      <description>&lt;p&gt;Mathematics for Engineers II is a course offered to the students of the three Engineering Departments of the University of Cyprus. Its content is that of a multivariable calculus course, namely vectors in n-dimensional spaces, limits and continuity of multivariable functions, differentiability and extrema, multiple integrals, line and surface intergrals, fundamental theorems of vector calculus (Green, Stokes, Gauss).&lt;/p&gt;
+&lt;p&gt;The content for the course can be found (in greek) &lt;a href=&#34;https://st-dimopoulos.github.io/mas026/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mathematics II</title>
+      <link>https://st-dimopoulos.github.io/mas002-spring2020/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas002-spring2020/</guid>
+      <description>&lt;p&gt;This is a course offered to students of three departments (Accounting and Finance, Business and Public Administration, Biology). Its content includes elements of Calculus (applications of integration, hyperbolic functions, sequences, series, differential equations) and Linear Algebra (linear equations, matrices, determinants, eigenvalues and eigenvectors).&lt;/p&gt;
+&lt;p&gt;The content for the course can be found (in greek) &lt;a href=&#34;https://st-dimopoulos.github.io/mas002/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mαθηματικά για Μηχανικούς ΙΙ</title>
+      <link>https://st-dimopoulos.github.io/mas026/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas026/</guid>
+      <description>&lt;p&gt;Σχέδιο μαθήματος&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://st-dimopoulos.github.io/mas026-autumn2019-gr/&#34;&gt;Σημειώσεις προηγούμενου εξαμήνου&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Μαθηματικά ΙΙ</title>
+      <link>https://st-dimopoulos.github.io/mas002/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas002/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The size of real numbers and other mysteries of the continuum function</title>
@@ -24,19 +62,19 @@
     
     <item>
       <title>Mathematics for Engineers II</title>
-      <link>https://st-dimopoulos.github.io/teaching/ucy-mas026-autumn2019/</link>
+      <link>https://st-dimopoulos.github.io/mas026-autumn2019/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://st-dimopoulos.github.io/teaching/ucy-mas026-autumn2019/</guid>
+      <guid>https://st-dimopoulos.github.io/mas026-autumn2019/</guid>
       <description>&lt;p&gt;Mathematics for Engineers II is a course offered to the students of the three Engineering Departments of the University of Cyprus. Its content is that of a multivariable calculus course, namely vectors in n-dimensional spaces, limits and continuity of multivariable functions, differentiability and extrema, multiple integrals, line and surface intergrals, fundamental theorems of vector calculus (Green, Stokes, Gauss).&lt;/p&gt;
-&lt;p&gt;The content for the course can be found (in greek) &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/ucy-mas026-autumn2019-gr/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The content for the course can be found (in greek) &lt;a href=&#34;https://st-dimopoulos.github.io/mas026-autumn2019-gr/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mαθηματικά για Μηχανικούς ΙΙ</title>
-      <link>https://st-dimopoulos.github.io/teaching/ucy-mas026-autumn2019-gr/</link>
+      <link>https://st-dimopoulos.github.io/mas026-autumn2019-gr/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://st-dimopoulos.github.io/teaching/ucy-mas026-autumn2019-gr/</guid>
+      <guid>https://st-dimopoulos.github.io/mas026-autumn2019-gr/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas_026_autumn_2019_syllabus.pdf&#34;&gt;Σχέδιο μαθήματος&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas_026_autumn_2019_content.pdf&#34;&gt;Αναλυτικό περιεχόμενο&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Ενδιάμεση εξέταση: Σάββατο 2 Νοεμβρίου, 11.00-13.00, ΧΩΔ01 108.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -61,19 +99,19 @@
     
     <item>
       <title>Statistical Analysis I</title>
-      <link>https://st-dimopoulos.github.io/teaching/ucy-mas061-autumn2019/</link>
+      <link>https://st-dimopoulos.github.io/mas061-autumn2019/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://st-dimopoulos.github.io/teaching/ucy-mas061-autumn2019/</guid>
+      <guid>https://st-dimopoulos.github.io/mas061-autumn2019/</guid>
       <description>&lt;p&gt;This is a course offered to students of three departments (Accounting and Finance, Business and Public Administration, Economics). Its content includes basic combinatorics, theory of probability, discrete and continuous distributions, descriptive statistics, point estimation, confindence intervals and hypothesis testing.&lt;/p&gt;
-&lt;p&gt;The content for the course can be found (in greek) &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/ucy-mas061-autumn2019-gr/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The content for the course can be found (in greek) &lt;a href=&#34;https://st-dimopoulos.github.io/mas061-autumn2019-gr/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Στατιστική Ανάλυση Ι</title>
-      <link>https://st-dimopoulos.github.io/teaching/ucy-mas061-autumn2019-gr/</link>
+      <link>https://st-dimopoulos.github.io/mas061-autumn2019-gr/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://st-dimopoulos.github.io/teaching/ucy-mas061-autumn2019-gr/</guid>
+      <guid>https://st-dimopoulos.github.io/mas061-autumn2019-gr/</guid>
       <description>&lt;p&gt;Σχέδιο μαθήματος: &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas_061.2_autumn_2019_syllabus.pdf&#34;&gt;2ο τμήμα&lt;/a&gt; και &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas_061.3_autumn_2019_syllabus.pdf&#34;&gt;3ο τμήμα&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Eνδιάμεση εξέταση: Κυριακή 10 Νοεμβρίου, 14.00-16.00, ΧΩΔ02 Β204, Β205, Β210.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ασκήσεις φροντιστηρίων&lt;/strong&gt;&lt;/p&gt;
@@ -160,9 +198,9 @@ cardinals in our ground model. However, if we force over a model in which GCH an
     
     <item>
       <title>Violating GCH at large cardinals - why is it interesting and what&#39;s new</title>
-      <link>https://st-dimopoulos.github.io/post/2019-02-27-large-cardinals-continuum/</link>
+      <link>https://st-dimopoulos.github.io/2019/02/large-cardinals-continuum-function/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://st-dimopoulos.github.io/post/2019-02-27-large-cardinals-continuum/</guid>
+      <guid>https://st-dimopoulos.github.io/2019/02/large-cardinals-continuum-function/</guid>
       <description>&lt;p&gt;While I was creating the &lt;a href=&#34;https://st-dimopoulos.github.io/publication/2019-02-27-sc-continuum-function/&#34;&gt;publication entry&lt;/a&gt; for the recent submitted preprint joint with A. W. Apter and T. Usuba, I decided it is worth writing a separate blogpost explaining how our results extend an ongoing problem in set theory, the violation of GCH at large cardinals from optimal assumptions. This is connected to the problem of understanding the continuum function, which existed since the very early days of set theory, since Cantor himself was interested in the possible value of the continuum and formulated the Continuum Hypothesis. Of course, we now have a vast amount of results that have given us a much greater understanding of the behaviour of the continuum function, especially for regular cardinals.&lt;/p&gt;
 &lt;p&gt;My focus as usual will be large cardinals -at least measurable- and whether we can blow up the size of their power sets without destroying their large cardinal properties. Somewhat surprisingly, just violating GCH at a measurable cardinal while preserving its measurability is quite a hard task. Gitik made this precise (&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0168007289900699&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://core.ac.uk/download/pdf/82536312.pdf&#34;&gt;here&lt;/a&gt;) by showing that to violate GCH at a measurable cardinal $\kappa$ we have to assume it has Mitchell rank at least $\kappa^{+ +}$. We were thus presented with the challenge to try and find what is the consistency strength of the violation of GCH at the various large cardinals above measurable.&lt;/p&gt;
 &lt;p&gt;Why is such a task useful? For someone already interested in large cardinals there is no point in asking this question, but the applications that emerged from such results can convince even a large cardinal &amp;ldquo;scepticist&amp;rdquo;. The first and most important is the violation of GCH at a strong limit singular cardinal, which is a statement of non-trivial large cardinal strength as Gitik [showed]((&lt;a href=&#34;https://core.ac.uk/download/pdf/82536312.pdf)&#34;&gt;https://core.ac.uk/download/pdf/82536312.pdf)&lt;/a&gt;. In fact, the way we do it is to first violate GCH at a measurable $\kappa$ of Mitchell order $\kappa^{+ +}$ and then using Prikry forcing, turn $\kappa$ into a singular cardinal. With some more effort, we can even force $\kappa$ to become $\aleph_\omega$. This method of collapsing a large cardinal where GCH fails has been since applied to establish the consistency of several other statements like &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0003484372900174&#34;&gt;the tree property at accessible cardinals&lt;/a&gt;, or the &lt;a href=&#34;https://link.springer.com/article/10.1007/BF01624081&#34;&gt;possible &amp;ldquo;small powers&amp;rdquo; of cardinals&lt;/a&gt; and the list continues to grow. Therefore, the violation of GCH at large cardinals is often used to establish an upper bound on the consistency of a certain combinatorial property, thus it becomes important to know the optimal hypothesis from which we can force this violation.&lt;/p&gt;
@@ -187,9 +225,9 @@ cardinals in our ground model. However, if we force over a model in which GCH an
     
     <item>
       <title>Strong compactness and functions with the Menas property</title>
-      <link>https://st-dimopoulos.github.io/post/2018-10-13-strong-compactness-menas-property/</link>
+      <link>https://st-dimopoulos.github.io/2018/10/strong-compactness-menas-property/</link>
       <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://st-dimopoulos.github.io/post/2018-10-13-strong-compactness-menas-property/</guid>
+      <guid>https://st-dimopoulos.github.io/2018/10/strong-compactness-menas-property/</guid>
       <description>&lt;p&gt;In this blog post I will travel back to the 70s and discuss about a result that appeared &lt;a href=&#34;https://core.ac.uk/download/pdf/82143213.pdf&#34;&gt;here&lt;/a&gt;. Briefly, the result says that we can always find fast functions for strongly compact cardinals which are limits of strongly compact cardinals, without the need to force one.&lt;/p&gt;
 &lt;p&gt;Before explaining what all this means, let me describe my motivation since this is a somewhat specialised post. First of all, the aforementioned paper is one of the most important ones in set theory, since among other results, it establishes the non-equivalence between strong compactness and supercompactness. One of the results in the article was recently brought to my attention by Arthur Apter and I was surprised that I could not find it in the modern literature. I believe it is quite beneficial to look at old results and recast them using modern tools, since it can make them more easily accessible to other researchers, without needing to trace the whole history. I am definitely not the first person who did this for Menas&amp;rsquo; paper, since Joel Hamkins &lt;a href=&#34;https://arxiv.org/abs/math/9808012&#34;&gt;adapted Menas&amp;rsquo; techniques&lt;/a&gt; to argue about the preservation of strong compactness in forcing extensions. In fact, part of this post is inspired by Hamkins&amp;rsquo; approach.&lt;/p&gt;
 &lt;p&gt;To delve into the details now, recall that
@@ -263,9 +301,9 @@ Now, through a standard factoring argument it can be shown that $|{[id]}_U|^M&lt
     
     <item>
       <title>Sacks forcing and supercompact cardinals</title>
-      <link>https://st-dimopoulos.github.io/post/2018-09-19-sacks-supercompact/</link>
+      <link>https://st-dimopoulos.github.io/2018/09/sacks-supercompact/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://st-dimopoulos.github.io/post/2018-09-19-sacks-supercompact/</guid>
+      <guid>https://st-dimopoulos.github.io/2018/09/sacks-supercompact/</guid>
       <description>&lt;p&gt;Time for the first ever blog post! And it is about one of my favourite topics, the preservation of large cardinals through forcing.&lt;/p&gt;
 &lt;p&gt;The motivation behind this post, is a discussion I had with James Cummings in the &amp;ldquo;Set theory today&amp;rdquo; conference that took place in the KGRC in Vienna last week. He explained to me how supercompact cardinals can be preserved through iterations of Sacks forcing, a fact that I was not aware of and which I find very useful. Although the technique was already known by some set theorists (Sy Friedman and Radek Honzik were aware of it for instance), it seems that it has not appeared in the literature yet. So, with James&amp;rsquo; permission, in this post I will describe the proof that he showed me.&lt;/p&gt;
 &lt;p&gt;I believe it would be useful to say a few words on why such a technique is useful. One of the most interesting and active areas in set theory is to fully understand the behaviour of the continuum function, which calculates the size of the power set of all infinite cardinals. During the late 20th century we had a wealth of results that have given us a much greater understanding of this problem. However, things get more complicated when we bring large cardinals in the picture. Given a large cardinal, the challenge is to find all the possible configurations of the continuum function that can be true while preserving the properties of the large cardinal.&lt;/p&gt;
@@ -343,9 +381,9 @@ $$A=j``[\lambda]^\kappa={j(a)\mid a\subseteq \lambda, |a|=\kappa}.$$&lt;/p&gt;
     
     <item>
       <title>Academic Tutorials</title>
-      <link>https://st-dimopoulos.github.io/teaching/bristol-year1-tutorials/</link>
+      <link>https://st-dimopoulos.github.io/academic-tutorials/</link>
       <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://st-dimopoulos.github.io/teaching/bristol-year1-tutorials/</guid>
+      <guid>https://st-dimopoulos.github.io/academic-tutorials/</guid>
       <description>&lt;p&gt;title: &amp;ldquo;Academic Tutor&amp;rdquo;
 collection: teaching
 classes: wide
