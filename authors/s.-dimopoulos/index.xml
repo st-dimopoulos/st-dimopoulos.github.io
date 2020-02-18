@@ -6,6 +6,12 @@
       <atom:link href="https://st-dimopoulos.github.io/authors/s.-dimopoulos/index.xml" rel="self" type="application/rss+xml" />
     <description>S. Dimopoulos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Stamatis Dimopoulos</copyright><lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://st-dimopoulos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Dimopoulos</title>
+      <link>https://st-dimopoulos.github.io/authors/s.-dimopoulos/</link>
+    </image>
+    
     <item>
       <title>Woodin for strong compactness cardinals</title>
       <link>https://st-dimopoulos.github.io/publication/2018-08-02-wfsc/</link>
