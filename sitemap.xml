@@ -63,7 +63,7 @@
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/publication_types/2/</loc>
+    <loc>https://st-dimopoulos.github.io/publication-type/2/</loc>
     <lastmod>2019-03-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,12 +83,7 @@
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/authors/s.-dimopoulos/</loc>
-    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://st-dimopoulos.github.io/tags/</loc>
+    <loc>https://st-dimopoulos.github.io/author/s.-dimopoulos/</loc>
     <lastmod>2019-03-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,27 +93,27 @@
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/publication_types/3/</loc>
+    <loc>https://st-dimopoulos.github.io/publication-type/3/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/authors/a.w.-apter/</loc>
+    <loc>https://st-dimopoulos.github.io/author/a.w.-apter/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/tags/continuum-function/</loc>
+    <loc>https://st-dimopoulos.github.io/tag/continuum-function/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/tags/easton-functions/</loc>
+    <loc>https://st-dimopoulos.github.io/tag/easton-functions/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/tags/large-cardinals/</loc>
+    <loc>https://st-dimopoulos.github.io/tag/large-cardinals/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,7 +123,7 @@
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/tags/strongly-compact-cardinals/</loc>
+    <loc>https://st-dimopoulos.github.io/tag/strongly-compact-cardinals/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -138,12 +133,17 @@
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/tags/supercompact-cardinals/</loc>
+    <loc>https://st-dimopoulos.github.io/tag/supercompact-cardinals/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/authors/t.-usuba/</loc>
+    <loc>https://st-dimopoulos.github.io/author/t.-usuba/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://st-dimopoulos.github.io/tags/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,12 +153,12 @@
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/tags/fast-function/</loc>
+    <loc>https://st-dimopoulos.github.io/tag/fast-function/</loc>
     <lastmod>2018-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/tags/menas-property/</loc>
+    <loc>https://st-dimopoulos.github.io/tag/menas-property/</loc>
     <lastmod>2018-10-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,7 +168,7 @@
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/tags/sacks-forcing/</loc>
+    <loc>https://st-dimopoulos.github.io/tag/sacks-forcing/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -208,11 +208,11 @@
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/authors/admin/</loc>
+    <loc>https://st-dimopoulos.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://st-dimopoulos.github.io/categories/</loc>
+    <loc>https://st-dimopoulos.github.io/author/stamatis-dimopoulos/</loc>
   </url>
   
 </urlset>
