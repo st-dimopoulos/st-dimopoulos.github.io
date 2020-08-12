@@ -5,12 +5,88 @@
     <link>https://st-dimopoulos.github.io/teaching/</link>
       <atom:link href="https://st-dimopoulos.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Stamatis Dimopoulos</copyright><lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Stamatis Dimopoulos</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://st-dimopoulos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Teaching</title>
       <link>https://st-dimopoulos.github.io/teaching/</link>
     </image>
+    
+    <item>
+      <title>Elements of Linear Algebra</title>
+      <link>https://st-dimopoulos.github.io/mas001-autumn2020/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas001-autumn2020/</guid>
+      <description>&lt;p&gt;This is a course offered to students of four departments (Accounting and Finance, Business and Public Administration, Economics, Biology). Its content includes elements of Calculus (functions, limits and continuity, differentiation and applications, integration).&lt;/p&gt;
+&lt;p&gt;The content for the course can be found (in greek) 
+&lt;a href=&#34;https://st-dimopoulos.github.io/mas001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mathematics for Engineers I</title>
+      <link>https://st-dimopoulos.github.io/mas001-autumn2020/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas001-autumn2020/</guid>
+      <description>&lt;p&gt;This is a course offered to students of four departments (Accounting and Finance, Business and Public Administration, Economics, Biology). Its content includes elements of Calculus (functions, limits and continuity, differentiation and applications, integration).&lt;/p&gt;
+&lt;p&gt;The content for the course can be found (in greek) 
+&lt;a href=&#34;https://st-dimopoulos.github.io/mas001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mathematics I</title>
+      <link>https://st-dimopoulos.github.io/mas001-autumn2020/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas001-autumn2020/</guid>
+      <description>&lt;p&gt;This is a course offered to students of four departments (Accounting and Finance, Business and Public Administration, Economics, Biology). Its content includes elements of Calculus (functions, limits and continuity, differentiation and applications, integration).&lt;/p&gt;
+&lt;p&gt;The content for the course can be found (in greek) 
+&lt;a href=&#34;https://st-dimopoulos.github.io/mas001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Μαθηματικά Ι</title>
+      <link>https://st-dimopoulos.github.io/mas001/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas001/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;&#34;&gt;Σχέδιο μαθήματος&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;
+&lt;a href=&#34;&#34;&gt;Τυπολόγιο&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;ασκήσεις&#34;&gt;Ασκήσεις&lt;/h4&gt;
+&lt;h4 id=&#34;σημειώσεις&#34;&gt;Σημειώσεις&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Μαθηματικά για Μηχανικούς Ι</title>
+      <link>https://st-dimopoulos.github.io/mas001/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas001/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;&#34;&gt;Σχέδιο μαθήματος&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;
+&lt;a href=&#34;&#34;&gt;Τυπολόγιο&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;ασκήσεις&#34;&gt;Ασκήσεις&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Στοιχεία Γραμμικής Άλγεβρας</title>
+      <link>https://st-dimopoulos.github.io/mas001/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas001/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;&#34;&gt;Σχέδιο μαθήματος&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;
+&lt;a href=&#34;&#34;&gt;Τυπολόγιο&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;ασκήσεις&#34;&gt;Ασκήσεις&lt;/h4&gt;
+</description>
+    </item>
     
     <item>
       <title>Mathematics for Engineers II</title>
