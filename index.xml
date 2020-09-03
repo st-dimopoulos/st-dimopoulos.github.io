@@ -5,7 +5,7 @@
     <link>https://st-dimopoulos.github.io/</link>
       <atom:link href="https://st-dimopoulos.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Stamatis Dimopoulos</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Stamatis Dimopoulos</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Stamatis Dimopoulos</copyright><lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://st-dimopoulos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Stamatis Dimopoulos</title>
@@ -15,11 +15,50 @@
     <item>
       <title>Elements of Linear Algebra</title>
       <link>https://st-dimopoulos.github.io/mas029-autumn2020/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://st-dimopoulos.github.io/mas029-autumn2020/</guid>
+      <description>&lt;p&gt;This is a course offered to students of the Faculty of Engineering (Civil, Mechanical and Electric engineers) and of the Department of Computer Science. Its content includes elements of Linear Algebra (matrix algebra, linear systems of equations, vector spaces, eigenvalues and eigenvectors, diagonalisation).&lt;/p&gt;
+&lt;p&gt;The content for the course can be found (in greek) 
+&lt;a href=&#34;https://st-dimopoulos.github.io/mas029/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mathematics I</title>
+      <link>https://st-dimopoulos.github.io/mas001-autumn2020/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas001-autumn2020/</guid>
       <description>&lt;p&gt;This is a course offered to students of four departments (Accounting and Finance, Business and Public Administration, Economics, Biology). Its content includes elements of Calculus (functions, limits and continuity, differentiation and applications, integration).&lt;/p&gt;
 &lt;p&gt;The content for the course can be found (in greek) 
 &lt;a href=&#34;https://st-dimopoulos.github.io/mas001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Μαθηματικά Ι</title>
+      <link>https://st-dimopoulos.github.io/mas001/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas001/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;&#34;&gt;Σχέδιο μαθήματος&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;
+&lt;a href=&#34;&#34;&gt;Τυπολόγιο&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;ασκήσεις&#34;&gt;Ασκήσεις&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Στοιχεία Γραμμικής Άλγεβρας</title>
+      <link>https://st-dimopoulos.github.io/mas029/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://st-dimopoulos.github.io/mas029/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;&#34;&gt;Σχέδιο μαθήματος&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;
+&lt;a href=&#34;&#34;&gt;Τυπολόγιο&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;ασκήσεις&#34;&gt;Ασκήσεις&lt;/h4&gt;
 </description>
     </item>
     
@@ -35,50 +74,10 @@
     </item>
     
     <item>
-      <title>Mathematics I</title>
-      <link>https://st-dimopoulos.github.io/mas001-autumn2020/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://st-dimopoulos.github.io/mas001-autumn2020/</guid>
-      <description>&lt;p&gt;This is a course offered to students of four departments (Accounting and Finance, Business and Public Administration, Economics, Biology). Its content includes elements of Calculus (functions, limits and continuity, differentiation and applications, integration).&lt;/p&gt;
-&lt;p&gt;The content for the course can be found (in greek) 
-&lt;a href=&#34;https://st-dimopoulos.github.io/mas001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Μαθηματικά Ι</title>
-      <link>https://st-dimopoulos.github.io/mas001/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://st-dimopoulos.github.io/mas001/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;&#34;&gt;Σχέδιο μαθήματος&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;
-&lt;a href=&#34;&#34;&gt;Τυπολόγιο&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;ασκήσεις&#34;&gt;Ασκήσεις&lt;/h4&gt;
-&lt;h4 id=&#34;σημειώσεις&#34;&gt;Σημειώσεις&lt;/h4&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Μαθηματικά για Μηχανικούς Ι</title>
       <link>https://st-dimopoulos.github.io/mas025/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://st-dimopoulos.github.io/mas025/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;&#34;&gt;Σχέδιο μαθήματος&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;
-&lt;a href=&#34;&#34;&gt;Τυπολόγιο&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;ασκήσεις&#34;&gt;Ασκήσεις&lt;/h4&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Στοιχεία Γραμμικής Άλγεβρας</title>
-      <link>https://st-dimopoulos.github.io/mas029/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://st-dimopoulos.github.io/mas029/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;&#34;&gt;Σχέδιο μαθήματος&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -667,15 +666,7 @@ $$A=j``[\lambda]^\kappa={j(a)\mid a\subseteq \lambda, |a|=\kappa}.$$&lt;/p&gt;
       <link>https://st-dimopoulos.github.io/academic-tutorials/</link>
       <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://st-dimopoulos.github.io/academic-tutorials/</guid>
-      <description>&lt;p&gt;title: &amp;ldquo;Academic Tutor&amp;rdquo;
-collection: teaching
-classes: wide
-type: &amp;ldquo;Academic Tutorials&amp;rdquo;
-permalink: /teaching/bristol-year1-tutorials
-venue: &amp;ldquo;University of Bristol, School of Mathematics&amp;rdquo;
-date: 2014-01-01
-location: &amp;ldquo;Bristol, UK&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;I was an academic tutor at the University of Bristol, at the following 1st year courses of the Maths Single Honours curriculum.&lt;/p&gt;
+      <description>&lt;p&gt;I was an academic tutor at the University of Bristol, at the following 1st year courses of the Maths Single Honours curriculum.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Analysis 1A and 1B&lt;/li&gt;
 &lt;li&gt;Foundations and Proof&lt;/li&gt;
