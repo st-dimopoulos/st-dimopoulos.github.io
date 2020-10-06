@@ -92,6 +92,14 @@
 &lt;td&gt;29-9-2020&lt;/td&gt;
 &lt;td&gt;Όριο συνάρτησης, όρια πολυωνυμικών και ρητών συναρτήσεων, όρια στο άπειρο, όρια πολυωνύμικών και ρητών συναρτήσεων στο άπειρο&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2-10-2020&lt;/td&gt;
+&lt;td&gt;Όρια εκθετικών και λογαριθμικών συναρτήσεων, κριτήριο παρεμβολής, συνέχεια συνάρτησης, είδη ασυνέχειας, πράξεις συνεχών συναρτήσεων, συνέχεια σε διάστημα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6-10-2020&lt;/td&gt;
+&lt;td&gt;Θεώρημα Ενδιάμεσης Τιμής, ύπαρξη ρίζας εξίσωσης, παραδείγματα κι ασκήσεις&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
@@ -157,6 +165,8 @@
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/MAS029-LECTURE7-29.9.2020_nc.pdf&#34;&gt;εδώ&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;8ο μάθημα 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/MAS029-LECTURE8-2.10.2020_pc.pdf&#34;&gt;εδώ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;9ο μάθημα 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/MAS029-LECTURE9-6.10.2020_pc.pdf&#34;&gt;εδώ&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;ημερολόγιο-μαθήματος&#34;&gt;Ημερολόγιο μαθήματος&lt;/h4&gt;
@@ -199,6 +209,10 @@
 &lt;tr&gt;
 &lt;td&gt;2-10-2020&lt;/td&gt;
 &lt;td&gt;Διανυσματικοί χώροι, ο χώρος $\mathbb{R}^n$, γραμμικός συνδυασμός, παραγόμενος χώρος (Span)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6-10-2020&lt;/td&gt;
+&lt;td&gt;Παραδείγματα με Span, σχέση Span και γραμμικών συστημάτων, χώρος στηλών πίνακα, σύνολο λύσεων ομογενούς συστήματος ως Span&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
