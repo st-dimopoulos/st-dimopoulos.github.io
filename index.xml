@@ -42,6 +42,8 @@
       <description>&lt;p&gt;Σχέδιο μαθήματος: 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas001/mas001.3_autumn_2020_syllabus.pdf&#34;&gt;3ο τμήμα&lt;/a&gt;, 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas001/mas001.6_autumn_2020_syllabus.pdf&#34;&gt;6ο τμήμα&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas001/typologio_mas001.pdf&#34;&gt;Τυπολόγιο&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;ασκήσεις&#34;&gt;Ασκήσεις&lt;/h4&gt;
 &lt;ul&gt;
@@ -149,6 +151,10 @@
 &lt;td&gt;Παράγουσα συνάρτηση, αόριστο ολοκλήρωμα, γνωστά ολοκληρώματα, ορισμένο ολοκλήρωμα&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td&gt;13-11-2020&lt;/td&gt;
+&lt;td&gt;Θεμελιώδες Θεώρημα Απειροστικού Λογισμού, θεώρημα μέσης τιμής ολοκληρωτικού λογισμού&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;17-11-2020&lt;/td&gt;
 &lt;td&gt;Ολοκλήρωση κατά παράγοντες, ολοκλήρωση τριγωνομετρικών συναρτήσεων&lt;/td&gt;
 &lt;/tr&gt;
@@ -159,6 +165,10 @@
 &lt;tr&gt;
 &lt;td&gt;24-11-2020&lt;/td&gt;
 &lt;td&gt;Τριγωνομετρική αντικατάσταση, ανάλυση σε μερικά κλάσματα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;27-11-2020&lt;/td&gt;
+&lt;td&gt;Αναγωγικοί τύποι, ρητές τριγωνομετρικές συναρτήσεις&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -282,6 +292,8 @@
 &lt;li&gt;23ο μάθημα 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/MAS029-LECTURE23-24.11.2020_pc.pdf&#34;&gt;εδώ&lt;/a&gt; ή 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/MAS029-LECTURE23-24.11.2020_nc.pdf&#34;&gt;εδώ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;24ο μάθημα 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/MAS029-LECTURE24-27.11.2020_pc.pdf&#34;&gt;εδώ&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;ημερολόγιο-μαθήματος&#34;&gt;Ημερολόγιο μαθήματος&lt;/h4&gt;
@@ -384,6 +396,10 @@
 &lt;tr&gt;
 &lt;td&gt;24-11-2020&lt;/td&gt;
 &lt;td&gt;Σχέση διαγωνοποίησης και γεωμετρικής πολλαπλότητας, στοιχεία μιγαδικής ανάλυσης&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;27-11-2020&lt;/td&gt;
+&lt;td&gt;Ο χώρος $\mathbb{C}^n$, μιγαδικές ιδιοτιμές, ομοιότητα 2x2 πινάκων με πίνακες στροφής και μεταβολής μήκους&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
