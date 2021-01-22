@@ -74,6 +74,10 @@
 &lt;td&gt;18-1-2021&lt;/td&gt;
 &lt;td&gt;Υπολογισμός εμβαδού και όγκου εκ περιστροφής με ολοκλήρωμα&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21-1-2021&lt;/td&gt;
+&lt;td&gt;Μήκος τόξου καμπύλης, εμβαδόν επιφάνειας εκ περιστροφής, υπερβολικές συναρτήσεις&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
@@ -117,8 +121,12 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;18-1-2020&lt;/td&gt;
+&lt;td&gt;18-1-2021&lt;/td&gt;
 &lt;td&gt;Παραμετρικές καμπύλες στο επίπεδο, προσανατολισμός, κλίση εφαπτομένης παραμετρικής καμπύλης&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21-1-2021&lt;/td&gt;
+&lt;td&gt;Πολικές συντεταγμένες, κωνικές τομές&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -601,6 +609,10 @@
 &lt;tr&gt;
 &lt;td&gt;18-1-2021&lt;/td&gt;
 &lt;td&gt;Γραμμικά συστήματα, πίνακας συστήματος, παράδειγμα επίλυσης, Πίνακες-διαστάσεις-στοιχεία, ισότητα πινάκων&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21-1-2021&lt;/td&gt;
+&lt;td&gt;Κλιμακωτοί και ανηγμένοι κλιμακωτοί πίνακες, επίλυση με μέθοδο απαλοιφής Gauss &amp;amp; Gauss-Jordan&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
