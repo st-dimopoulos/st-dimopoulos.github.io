@@ -84,7 +84,11 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;28-1-2021&lt;/td&gt;
-&lt;td&gt;Γενικευμένα ολοκληρώματα, Κανόνας L&amp;rsquo;Hopital&lt;/td&gt;
+&lt;td&gt;Γενικευμένα ολοκληρώματα, Κανόνεςς L&amp;rsquo;Hopital&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1-2-2021&lt;/td&gt;
+&lt;td&gt;Κανόνες L&amp;rsquo;Hopital, Ακολουθίες&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -148,6 +152,10 @@
 &lt;tr&gt;
 &lt;td&gt;28-1-2021&lt;/td&gt;
 &lt;td&gt;Ασκήσεις, προβολή διανύσματος, εξωτερικό γινόμενο&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1-2-2021&lt;/td&gt;
+&lt;td&gt;Γεωμετρικές ιδιότητες εξωτερικού γινομένου, τριπλό βαθμωτό γινόμενο, παραμετρικές εξισώσεις ευθειών&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -609,6 +617,8 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_exercises_1_2021.pdf&#34;&gt;Κεφάλαιο 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_exercises_2_2021.pdf&#34;&gt;Κεφάλαιο 2A&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;σημειώσεις&#34;&gt;Σημειώσεις&lt;/h4&gt;
@@ -620,6 +630,14 @@
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/1.4.inverse_matrix.pdf&#34;&gt;1.4&lt;/a&gt;, 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/1.5.row_equivalence.pdf&#34;&gt;1.5&lt;/a&gt;, 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/1.6.inverse_matrix_method.pdf&#34;&gt;1.6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Κεφάλαιο 2: 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/3.1.R%5en-span.pdf&#34;&gt;2.1&lt;/a&gt;, 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/3.2.matrix_spaces.pdf&#34;&gt;2.2&lt;/a&gt;, 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/3.3.linear_independence.pdf&#34;&gt;2.3&lt;/a&gt;, 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/3.4.linear_transformations.pdf&#34;&gt;2.4&lt;/a&gt;, 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/3.5.subspaces.pdf&#34;&gt;2.5&lt;/a&gt;, 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/3.6.basis.pdf&#34;&gt;2.6&lt;/a&gt;, 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/3.7.rank.pdf&#34;&gt;2.7&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;ημερολόγιο-μαθήματος&#34;&gt;Ημερολόγιο μαθήματος&lt;/h4&gt;
 &lt;table&gt;
@@ -645,6 +663,10 @@
 &lt;tr&gt;
 &lt;td&gt;28-1-2021&lt;/td&gt;
 &lt;td&gt;Συμμετρικοί πίνακες, αντίστροφος πίνακας, ορθογώνιος πίνακας&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1-2-2021&lt;/td&gt;
+&lt;td&gt;Δυνάμεις πινάκων, στοιχειώδεις πίνακες, αλγόριθμος εύρεσης αντιστρόφου πίνακα&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
