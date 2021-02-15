@@ -98,6 +98,14 @@
 &lt;td&gt;8-2-2021&lt;/td&gt;
 &lt;td&gt;Άπειρες σειρές, γνωστές σειρές, κριτήριο απόκλισης, κριτήριο ολοκλήρωσης&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11-2-2021&lt;/td&gt;
+&lt;td&gt;Κριτήριο οριακής σύγκρισής, κριτήριο λόγου και ρίζας&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15-2-2021&lt;/td&gt;
+&lt;td&gt;Κριτήριο εναλάσσουσας σειράς, απόλυτη σύγκλιση, κριτήριο λόγου για απόλυτη σύγκλιση, δυναμοσειρές&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
@@ -123,7 +131,12 @@
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_exercises_1.pdf&#34;&gt;Κεφάλαιο 1&lt;/a&gt; - 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_answers_1.pdf&#34;&gt;Απαντήσεις&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_exercises_2.pdf&#34;&gt;Κεφάλαιο 2&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_exercises_2.pdf&#34;&gt;Κεφάλαιο 2&lt;/a&gt; - 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_answers_2.pdf&#34;&gt;Απαντήσεις&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_exercises_3.pdf&#34;&gt;Κεφάλαιο 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_exercises_4.pdf&#34;&gt;Κεφάλαιο 4&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;σημειώσεις&#34;&gt;Σημειώσεις&lt;/h4&gt;
@@ -185,6 +198,10 @@
 &lt;tr&gt;
 &lt;td&gt;8-2-2021&lt;/td&gt;
 &lt;td&gt;Τομή ευθείας και επιπέδου, τομή επιπέδων, τετραγωνικές επιφάνειες, κυλινδρικές και σφαιρικές συντεταγμένες&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11-2021&lt;/td&gt;
+&lt;td&gt;Ασκήσεις, διανυσματικές συναρτήσεις, όριο διανυσματικής συνάρτησης&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -645,9 +662,12 @@
 &lt;h4 id=&#34;ασκήσεις&#34;&gt;Ασκήσεις&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_exercises_1_2021.pdf&#34;&gt;Κεφάλαιο 1&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_exercises_1_2021.pdf&#34;&gt;Κεφάλαιο 1&lt;/a&gt; - 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_answers_1_2021.pdf&#34;&gt;Απαντήσεις&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_exercises_2_2021.pdf&#34;&gt;Κεφάλαιο 2A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_exercises_2b_2021.pdf&#34;&gt;Κεφάλαιο 2B&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;σημειώσεις&#34;&gt;Σημειώσεις&lt;/h4&gt;
@@ -704,6 +724,14 @@
 &lt;tr&gt;
 &lt;td&gt;8-2-2021&lt;/td&gt;
 &lt;td&gt;Παραδείγματα με παραγόμενους χώρους, χώρος στηλών πίνακα, σύνολο λύσεων ομογενούς γραμμικού συστήματος ως Span, μηδενοχώρος πίνακα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11-2-2021&lt;/td&gt;
+&lt;td&gt;Γραμμική ανεξαρτησία, σχέση γραμμικής ανεξαρτησίας και ομογενών συστημάτων, γραμμική ανεξαρτησία στηλών πίνακα, παραδείγματα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15-2-2021&lt;/td&gt;
+&lt;td&gt;Υπόχωροι, παραδείγματα υποχώρων, βάση διανυσματικού χώρου&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
