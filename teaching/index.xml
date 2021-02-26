@@ -84,7 +84,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;28-1-2021&lt;/td&gt;
-&lt;td&gt;Γενικευμένα ολοκληρώματα, Κανόνεςς L&amp;rsquo;Hopital&lt;/td&gt;
+&lt;td&gt;Γενικευμένα ολοκληρώματα, Κανόνες L&amp;rsquo;Hopital&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;1-2-2021&lt;/td&gt;
@@ -113,6 +113,10 @@
 &lt;tr&gt;
 &lt;td&gt;22-2-2021&lt;/td&gt;
 &lt;td&gt;Διαφορικές εξισώσεις, εξισώσεις χωριζομένων μεταβλητών, γραμμικές εξισώσεις πρώτης τάξης&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;25-2-2021&lt;/td&gt;
+&lt;td&gt;Γραμμικές διαφορικές εξισώσεις δεύτερης τάξης&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -266,6 +270,10 @@
 &lt;tr&gt;
 &lt;td&gt;22-2-2021&lt;/td&gt;
 &lt;td&gt;Μερικές παράγωγοι, παραγωγισιμότητα, κανόνας αλυσίδας&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;25-2-2021&lt;/td&gt;
+&lt;td&gt;Ασκήσεις, παράγωγος πεπλεγμένης συνάρτησης, παράγωγος κατά κατεύθυνση&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -801,6 +809,10 @@
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/4.1.determinants.pdf&#34;&gt;3.1&lt;/a&gt;, 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/4.2.elimination_method.pdf&#34;&gt;3.2&lt;/a&gt;, 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/4.3.cramer%27s_rule.pdf&#34;&gt;3.3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Κεφάλαιο 4: 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/5.1.eigenvalues.pdf&#34;&gt;4.1&lt;/a&gt;, 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/5.2.diagonalization.pdf&#34;&gt;4.2&lt;/a&gt;, 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/5.3.complex_eigenvalues.pdf&#34;&gt;4.3&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;ημερολόγιο-μαθήματος&#34;&gt;Ημερολόγιο μαθήματος&lt;/h4&gt;
 &lt;table&gt;
@@ -854,6 +866,10 @@
 &lt;tr&gt;
 &lt;td&gt;22-2-2021&lt;/td&gt;
 &lt;td&gt;Απεικονίσεις, γραμμικές απεικονίσεις, κανονικός πίνακας γραμμικής απεικόνισης&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;25-2-2021&lt;/td&gt;
+&lt;td&gt;1-1 και επί γραμμικές απεικονίσεις, ορίζουσα τετραγωνικού πίνακα με ανάπτυγμα, ορίζουσα και γραμμοπράξεις&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
