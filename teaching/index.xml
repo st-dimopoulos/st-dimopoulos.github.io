@@ -122,6 +122,10 @@
 &lt;td&gt;1-3-2021&lt;/td&gt;
 &lt;td&gt;Μερικές παράγωγοι&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4-3-2021&lt;/td&gt;
+&lt;td&gt;Κανόνας αλυδίσας, γραμμικά συστήματα&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
@@ -196,7 +200,8 @@
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_exercises_3.pdf&#34;&gt;Κεφάλαιο 3&lt;/a&gt; - 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_answers_3.pdf&#34;&gt;Απαντήσεις&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_exercises_4.pdf&#34;&gt;Κεφάλαιο 4&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_exercises_4.pdf&#34;&gt;Κεφάλαιο 4&lt;/a&gt; - 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_answers_4.pdf&#34;&gt;Απαντήσεις&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;σημειώσεις&#34;&gt;Σημειώσεις&lt;/h4&gt;
@@ -220,6 +225,8 @@
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/slides/4.7.tangent_plane.pdf&#34;&gt;4.7&lt;/a&gt;, 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/slides/4.8.extrema.pdf&#34;&gt;4.8&lt;/a&gt;, 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/slides/4.9.lagrange_multipliers.pdf&#34;&gt;4.9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/slides/5.Multiple_Integrals.pdf&#34;&gt;Κεφάλαιο 5&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;ημερολόγιο-μαθήματος&#34;&gt;Ημερολόγιο μαθήματος&lt;/h4&gt;
@@ -278,6 +285,14 @@
 &lt;tr&gt;
 &lt;td&gt;25-2-2021&lt;/td&gt;
 &lt;td&gt;Ασκήσεις, παράγωγος πεπλεγμένης συνάρτησης, παράγωγος κατά κατεύθυνση&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1-3-2021&lt;/td&gt;
+&lt;td&gt;Επανάληψη&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4-3-2021&lt;/td&gt;
+&lt;td&gt;Κλίση συνάρτησης και εφαρμογές, εφαπτόμενο επίπεδο, ακρότατα&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -791,6 +806,8 @@
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_answers_2b_2021.pdf&#34;&gt;Απαντήσεις&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_exercises_3_2021.pdf&#34;&gt;Κεφάλαιο 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_exercises_4_2021.pdf&#34;&gt;Κεφάλαιο 4&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;σημειώσεις&#34;&gt;Σημειώσεις&lt;/h4&gt;
@@ -879,6 +896,10 @@
 &lt;tr&gt;
 &lt;td&gt;1-3-2021&lt;/td&gt;
 &lt;td&gt;Επανάληψη&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4-3-2021&lt;/td&gt;
+&lt;td&gt;Όρίζουσα με απαλοιφή, μέθοδος Cramer, γεωμετρικές εφαρμογές ορίζουσας&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
