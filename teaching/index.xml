@@ -145,6 +145,10 @@
 &lt;td&gt;18-3-2021&lt;/td&gt;
 &lt;td&gt;Επανάληψη, ομογενή γραμμικά συστήματα&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;22-3-2021&lt;/td&gt;
+&lt;td&gt;Πίνακες, πράξεις πινάκων, είδη πινάκων, αντίστροφος πίνακας, δυνάμεις πινάκων&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
@@ -326,6 +330,10 @@
 &lt;tr&gt;
 &lt;td&gt;18-3-2021&lt;/td&gt;
 &lt;td&gt;Ασκήσεις, διαδοχικά ολοκληρώματα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;24-3-2021&lt;/td&gt;
+&lt;td&gt;Διπλά ολοκληρώματα πάνω από γενικότερα χωρία, εμβαδόν χωρίου, εμβαδόν επιφάνειας, τριπλό ολοκλήρωμα&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -869,6 +877,10 @@
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/5.1.eigenvalues.pdf&#34;&gt;4.1&lt;/a&gt;, 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/5.2.diagonalization.pdf&#34;&gt;4.2&lt;/a&gt;, 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/5.3.complex_eigenvalues.pdf&#34;&gt;4.3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Κεφάλαιο 5: 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/6.1.inner_product.pdf&#34;&gt;5.1&lt;/a&gt;, 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/6.2.orthogonal_sets.pdf&#34;&gt;5.2&lt;/a&gt;, 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/slides/6.3.Gram-Schmidt.pdf&#34;&gt;5.3&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;ημερολόγιο-μαθήματος&#34;&gt;Ημερολόγιο μαθήματος&lt;/h4&gt;
 &lt;table&gt;
@@ -946,6 +958,10 @@
 &lt;tr&gt;
 &lt;td&gt;18-3-2021&lt;/td&gt;
 &lt;td&gt;Διαγωνοποίηση, θεώρημα διαγωνοποιήσιμου πίνακα, δυνάμεις διαγωνοποιήσιμου πίνακα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;22-3-2021&lt;/td&gt;
+&lt;td&gt;Αλγεβρική και γεωμετρική πολλαπλότητα ιδιοτιμών, στοιχεία μιγαδικής ανάλυσης, ο χώρος $\mathbb{C}^n$, μιγαδικές ιδιοτιμές&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
