@@ -153,6 +153,10 @@
 &lt;td&gt;29-3-2021&lt;/td&gt;
 &lt;td&gt;Εύρεση αντιστρόφου πίνακα, ορίζουσα, ιδιότητες ορίζουσας&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5-4-2021&lt;/td&gt;
+&lt;td&gt;Ανάπτυγμα ως προς γραμμή ή στήλη, συμπληρωματικός πίνακας, μέθοδος Cramer&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
@@ -231,6 +235,8 @@
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_answers_4.pdf&#34;&gt;Απαντήσεις&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_exercises_5.pdf&#34;&gt;Κεφάλαιο 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_exercises_6.pdf&#34;&gt;Κεφάλαιο 6&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;σημειώσεις&#34;&gt;Σημειώσεις&lt;/h4&gt;
@@ -256,6 +262,8 @@
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/slides/4.9.lagrange_multipliers.pdf&#34;&gt;4.9&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/slides/5.Multiple_Integrals.pdf&#34;&gt;Κεφάλαιο 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/slides/6.Topics_in_Vector_Calculus.pdf&#34;&gt;Κεφάλαιο 6&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;ημερολόγιο-μαθήματος&#34;&gt;Ημερολόγιο μαθήματος&lt;/h4&gt;
@@ -341,7 +349,11 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;29-3-2021&lt;/td&gt;
-&lt;td&gt;Ασκήσεις, τριπλό ολοκλήρωμα πάνω από γενικότερα χωρία, Ιακωβιανή&lt;/td&gt;
+&lt;td&gt;Ασκήσεις, τριπλό ολοκλήρωμα πάνω από γενικότερα χωρία, Ιακωβιανή ορίζουσα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5-4-2021&lt;/td&gt;
+&lt;td&gt;Αλλαγή μεταβλητών σε διπλό και τριπλό ολοκλήρωμα, ολοκληρώματα με πολικές, κυλινδρικές και σφαιρικές συντεταγμένες&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -857,7 +869,8 @@
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_exercises_3_2021.pdf&#34;&gt;Κεφάλαιο 3&lt;/a&gt; - 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_answers_3_2021.pdf&#34;&gt;Απαντήσεις&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_exercises_4_2021.pdf&#34;&gt;Κεφάλαιο 4&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_exercises_4_2021.pdf&#34;&gt;Κεφάλαιο 4&lt;/a&gt; - 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_answers_4_2021.pdf&#34;&gt;Απαντήσεις&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_exercises_5_2021.pdf&#34;&gt;Κεφάλαιο 5&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -976,6 +989,10 @@
 &lt;tr&gt;
 &lt;td&gt;29-3-2021&lt;/td&gt;
 &lt;td&gt;Ομοιότητα με πίνακες στροφής και μεταβολής μήκους, εσωτερικό γινόμενο, νόρμα, καθετότητα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5-4-2021&lt;/td&gt;
+&lt;td&gt;Ορθογώνια και ορθοκανονικά υποσύνολα του $\mathbb{R}^n$, ορθογώνιες βάσεις, προβολή&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
