@@ -51,7 +51,11 @@
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_exercises_4.pdf&#34;&gt;Κεφάλαιο 4&lt;/a&gt; - 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_answers_4.pdf&#34;&gt;Απαντήσεις&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_exercises_5.pdf&#34;&gt;Κεφάλαιο 5&lt;/a&gt; - [Απαντήσεις]&lt;/li&gt;
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_exercises_5.pdf&#34;&gt;Κεφάλαιο 5&lt;/a&gt; - 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_answers_5.pdf&#34;&gt;Απαντήσεις&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_exercises_6.pdf&#34;&gt;Κεφάλαιο 6&lt;/a&gt; - 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas026/mas026_answers_6.pdf&#34;&gt;Απαντήσεις&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;σημειώσεις&#34;&gt;Σημειώσεις&lt;/h4&gt;
@@ -171,6 +175,22 @@
 &lt;td&gt;12-11-2021&lt;/td&gt;
 &lt;td&gt;Ασκήσεις, Πολλαπλασιαστές Lagrange&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16-11-2021&lt;/td&gt;
+&lt;td&gt;Ασκήσεις, διπλά ολοκληρώματα, διαδοχικά ολοκληρώματα, διπλά ολοκληρώματα πάνω από γενικότερα χωρία&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19-11-2021&lt;/td&gt;
+&lt;td&gt;Ασκήσεις, εμβαδόν χωρίου, εμβαδόν επιφάνειας, τριπλό ολοκλήρωμα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;23-11-2021&lt;/td&gt;
+&lt;td&gt;Tριπλό ολοκλήρωμα πάνω από γενικότερα χωρία, Ιακωβιανή ορίζουσα, αλλαγή μεταβλητών σε διπλό και τριπλό ολοκλήρωμα, ολοκληρώματα με πολικές συντεταγμένες&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;26-11-2021&lt;/td&gt;
+&lt;td&gt;Ασκήσεις, ολοκληρώματα με κυλινδρικές και σφαιρικές συντεταγμένες&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
@@ -246,7 +266,8 @@
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_exercises_4b.pdf&#34;&gt;Κεφάλαιο 4B&lt;/a&gt; - 
 &lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_answers_4b.pdf&#34;&gt;Απαντήσεις&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_exercises_5.pdf&#34;&gt;Κεφάλαιο 5&lt;/a&gt; - [Απαντήσεις]&lt;/li&gt;
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_exercises_5.pdf&#34;&gt;Κεφάλαιο 5&lt;/a&gt; - 
+&lt;a href=&#34;https://st-dimopoulos.github.io/teaching/mas029/mas029_answers_5.pdf&#34;&gt;Απαντήσεις&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;σημειώσεις&#34;&gt;Σημειώσεις&lt;/h4&gt;
@@ -360,11 +381,27 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;9-11-2021&lt;/td&gt;
-&lt;td&gt;διοτιμές κι ιδιοδιανύσματα, χαρακτηριστικό πολυώνυμο και εξίσωση, ιδιοχώρος&lt;/td&gt;
+&lt;td&gt;Ιδιοτιμές κι ιδιοδιανύσματα, χαρακτηριστικό πολυώνυμο και εξίσωση, ιδιοχώρος&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;12-11-2021&lt;/td&gt;
 &lt;td&gt;Ιδιοδιανύσματα που αντιστοιχούν σε διακριτές ιδιοτιμές, σχέση ιδιοτιμών με ορίζουσα, αντιστρεψιμότητα και ίχνος&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16-11-2021&lt;/td&gt;
+&lt;td&gt;Ομοιότητα πινάκων, διαγωνοποιήσιμοι πίνακες, θεώρημα διαγωνοποιήσιμου πίνακα, παραδείγματα διαγωνοποιήσης&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19-11-2021&lt;/td&gt;
+&lt;td&gt;Δυνάμεις διαγωνοποιήσιμων πινάκων, αλγεβρική και γεωμετρική πολλαπλότητα ιδιοτιμών, σχέση διαγωνοποίησης και γεωμετρικής πολλαπλότητας, μιγαδικοί αριθμοί&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;23-11-2021&lt;/td&gt;
+&lt;td&gt;Ο χώρος $\mathbb{C}^n$, μιγαδικές ιδιοτιμές, ομοιότητα 2x2 πινάκων με πίνακες στροφής και μεταβολής μήκους&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;26-11-2021&lt;/td&gt;
+&lt;td&gt;Παραδείγματα σε πίνακες στροφής και μεταβολής μήκους&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
