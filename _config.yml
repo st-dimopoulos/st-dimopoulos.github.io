@@ -1,4 +1,4 @@
-title: Stamatis Dimopoulos - Personal webpage
+title: Stamatis Dimopoulos
 description: My personal webpage
 theme: just-the-docs
 baseurl: ""
@@ -6,6 +6,8 @@ url: "https://st-dimopoulos.github.io/"
 repository: st-dimopoulos/st-dimopoulos.github.io
 
 permalink: pretty
+
+encoding: utf-8
 
 # Enable or disable the side/mobile menu globally
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
